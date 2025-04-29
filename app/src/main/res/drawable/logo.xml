@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+
+    <!-- Left part of W (navy blue) -->
+    <path
+        android:fillColor="#1B3147"
+        android:pathData="M40,40 L70,40 L70,120 L40,160 Z" />
+
+    <!-- Middle part of W (navy blue) -->
+    <path
+        android:fillColor="#1B3147"
+        android:pathData="M75,40 L95,40 L95,100 L75,140 Z" />
+
+    <!-- Right part of W (navy blue) -->
+    <path
+        android:fillColor="#1B3147"
+        android:pathData="M100,40 L120,40 L120,120 L100,140 Z" />
+
+    <!-- Green bar -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M125,40 L145,40 L145,160 L125,140 Z" />
+
+    <!-- Orange/Red bar -->
+    <path
+        android:fillColor="#FF5722"
+        android:pathData="M150,40 L170,40 L170,140 L150,120 Z" />
+
+</vector> 

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SpendWise</string>
+    <string name="no_transactions">No transactions</string>
+
+    <!-- Main Activity -->
+    <string name="monthly_overview">Monthly Overview</string>
+    <string name="total_income">Total Income: %1$s</string>
+    <string name="total_expenses">Total Expenses: %1$s</string>
+    <string name="balance">Balance: %1$s</string>
+    <string name="monthly_budget">Monthly Budget</string>
+    <string name="budget_status">Budget: %1$s / %2$s</string>
+    <string name="add_transaction">Add Transaction</string>
+    <string name="category_spending">Category Spending</string>
+    <string name="income_trend">Income Trend</string>
+    <string name="expense_trend">Expense Trend</string>
+
+    <!-- Transaction Dialog -->
+    <string name="title">Title</string>
+    <string name="amount">Amount</string>
+    <string name="category">Category</string>
+    <string name="type">Type</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="edit_transaction">Edit Transaction</string>
+    <string name="delete_transaction">Delete Transaction</string>
+    <string name="delete_transaction_confirmation">Are you sure you want to delete this transaction?</string>
+
+    <!-- Budget Dialog -->
+    <string name="set_monthly_budget">Set Monthly Budget</string>
+    <string name="budget_amount">Budget Amount</string>
+
+    <!-- Backup Dialog -->
+    <string name="backup_restore">Backup &amp; Restore</string>
+    <string name="create_backup">Create Backup</string>
+    <string name="available_backups">Available Backups</string>
+    <string name="backup_from">Backup from %1$s</string>
+    <string name="backup_created">Backup created successfully</string>
+    <string name="backup_restored">Backup restored successfully</string>
+    <string name="backup_failed">Failed to create/restore backup</string>
+    <string name="clear_all_backups">Clear All Backups</string>
+    <string name="all_backups_cleared">All backups cleared successfully</string>
+    <string name="failed_to_clear_backups">Failed to clear backups</string>
+
+    <!-- Categories -->
+    <string name="category_food">Food</string>
+    <string name="category_transport">Transport</string>
+    <string name="category_bills">Bills</string>
+    <string name="category_entertainment">Entertainment</string>
+    <string name="category_shopping">Shopping</string>
+    <string name="category_other">Other</string>
+
+    <!-- Transaction Types -->
+    <string name="type_income">Income</string>
+    <string name="type_expense">Expense</string>
+
+    <!-- Notifications -->
+    <string name="budget_alert">Budget Alert</string>
+    <string name="budget_exceeded">You have exceeded your monthly budget!</string>
+    <string name="budget_approaching">You are approaching your monthly budget limit!</string>
+    <string name="daily_reminder">Daily Expense Reminder</string>
+    <string name="daily_reminder_message">Don\'t forget to record your expenses for today!</string>
+    <string name="enable_daily_reminder">Enable Daily Expense Reminder</string>
+
+    <!-- Menu -->
+    <string name="menu_backup_restore">Backup &amp; Restore</string>
+
+    <!-- Error Messages -->
+    <string name="error_invalid_amount">Please enter a valid amount</string>
+    <string name="error_empty_title">Please enter a title</string>
+    <string name="error_empty_amount">Please enter an amount</string>
+    <string name="error_invalid_budget">Please enter a valid budget amount</string>
+
+    <!-- Passcode -->
+    <string name="enter_passcode">Enter Passcode</string>
+    <string name="change_passcode">Change Passcode</string>
+    <string name="current_passcode">Current Passcode</string>
+    <string name="new_passcode">New Passcode</string>
+    <string name="confirm_passcode">Confirm Passcode</string>
+    <string name="submit">Submit</string>
+    <string name="passcode_length_error">Passcode must be 4 digits</string>
+    <string name="invalid_passcode">Invalid passcode</string>
+    <string name="invalid_current_passcode">Invalid current passcode</string>
+    <string name="passcode_mismatch">New passcodes do not match</string>
+    <string name="passcode_changed">Passcode changed successfully</string>
+    <string name="error_changing_passcode">Error changing passcode</string>
+
+    <!-- Currency -->
+    <string name="change_currency">Change Currency</string>
+    <string name="select_currency">Select Currency</string>
+    <string name="currency">Currency</string>
+
+    <!-- Theme Selection -->
+    <string name="select_theme">Select Theme</string>
+    <string name="theme_system">System Default</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+
+    <!-- Onboarding -->
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="get_started">Get Started</string>
+    <string name="back">Back</string>
+
+    <!-- Onboarding Screen 1 -->
+    <string name="onboarding_title_1">Track Your Expenses</string>
+    <string name="onboarding_description_1">Keep track of your daily expenses and income with ease</string>
+
+    <!-- Onboarding Screen 2 -->
+    <string name="onboarding_title_2">Set Budgets</string>
+    <string name="onboarding_description_2">Create custom budgets and stay within your spending limits</string>
+
+    <!-- Onboarding Screen 3 -->
+    <string name="onboarding_title_3">View Analytics</string>
+    <string name="onboarding_description_3">Get detailed insights about your spending habits with visual reports</string>
+</resources>
